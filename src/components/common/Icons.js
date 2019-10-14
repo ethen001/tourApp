@@ -1,6 +1,5 @@
 const Icons = {
   //Menu : require('@assets/icons/menu-thin.png'),
-  Logo:require('@assets/icons/logo.png'),
   Camera:require('@assets/icons/camera.png'),
   User:require('@assets/icons/user.png'),
   facebook:require('@assets/icons/facebook.png'),
