@@ -1,3 +1,7 @@
+/**
+ * imagesto be used as icons
+ */
+
 const Icons = {
   Camera:require('@assets/icons/camera.png'),
   User:require('@assets/icons/user.png'),
