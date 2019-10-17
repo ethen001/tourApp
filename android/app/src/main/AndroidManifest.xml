@@ -19,7 +19,7 @@
     android:roundIcon="@mipmap/ic_launcher_round"
     android:allowBackup="false"
     android:theme="@style/AppTheme">
-    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCVNx9LEPjCVkUvKmLUkHyprnrX55F68cc"/>
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="@string/googleMapsKey"/>
     <receiver android:name="io.invertase.firebase.notifications.RNFirebaseNotificationReceiver"/>
     <receiver android:enabled="true" android:exported="true"  android:name="io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver">
       <intent-filter>
