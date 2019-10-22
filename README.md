@@ -26,7 +26,7 @@ Enger L. Then
 <img src="TourApp/itinerary.jpeg" width="250" height="400">
 
 ### I'm Lost Screen
-functionality that allows tour guides to find lost people throgh the app
+<p>functionality that allows tour guides to find lost people throgh the app</p>
 <img src="TourApp/lost-admin.jpeg" width="250" height="400">
 
 ### Notifications Screen
